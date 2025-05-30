@@ -1,18 +1,5 @@
 <!-- PROJECT BADGES -->
-<p align="center">
-  <a href="https://github.com/Savanpethani/Onilne_exam_appplication/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/Savanpethani/Onilne_exam_appplication/ci.yml?branch=master&style=for-the-badge" alt="Build Status" />
-  </a>
-  <a href="https://github.com/Savanpethani/Onilne_exam_appplication/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Savanpethani/Onilne_exam_appplication?style=for-the-badge" alt="License" />
-  </a>
-  <a href="https://coveralls.io/github/Savanpethani/Onilne_exam_appplication">
-    <img src="https://img.shields.io/coveralls/github/Savanpethani/Onilne_exam_appplication?style=for-the-badge" alt="Coverage" />
-  </a>
-  <a href="https://github.com/Savanpethani/Onilne_exam_appplication/issues">
-    <img src="https://img.shields.io/github/issues/Savanpethani/Onilne_exam_appplication?style=for-the-badge" alt="Issues" />
-  </a>
-</p>
+
 
 <h1 align="center">🎓 Online Exam Application</h1>
 <p align="center">
